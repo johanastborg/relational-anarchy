@@ -1,0 +1,7 @@
+google-cloud-spanner
+google-cloud-aiplatform
+sqlalchemy
+pandas
+networkx
+pydantic
+python-dotenv
